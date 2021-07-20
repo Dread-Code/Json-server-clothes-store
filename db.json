@@ -1,28 +1,38 @@
 {
         "categories": [
             {
-              "category": "man",
-              "id":"1"
-            },
-            {
-              "category": "woman",
-              "id":"2"
-            },
-            { 
-              "category": "child",
-              "id":"3"
-      
-            },
-            {
-              "category": "junior",
-              "id":"4"
-      
-            },
-            {
-              "category": "accesories",
-              "id":"5"
-      
-            }
+                "category": "man",
+                "id":"1",
+                "name": "Hombre"
+              },
+              {
+                "category": "woman",
+                "id":"2",
+                "name": "Mujer"
+              },
+              { 
+                "category": "child",
+                "id":"3",
+                "name": "Niños"
+        
+              },
+              {
+                "category": "junior",
+                "id":"4",
+                "name": "junior"
+        
+              },
+              {
+                "category": "accesories",
+                "id":"5",
+                "name": "Accesorios"
+              },
+              {
+                  "category": "offers",
+                  "id":"6",
+                  "name": "Ofertas" 
+          
+              }
         ],
 "shop":[
             {
