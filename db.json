@@ -1,0 +1,379 @@
+{
+        "categories": [
+            {
+              "category": "man",
+              "id":"1"
+            },
+            {
+              "category": "woman",
+              "id":"2"
+            },
+            { 
+              "category": "child",
+              "id":"3"
+      
+            },
+            {
+              "category": "junior",
+              "id":"4"
+      
+            },
+            {
+              "category": "accesories",
+              "id":"5"
+      
+            }
+        ],
+"shop":[
+            {
+                "id": "11354321",
+                "price": "40000",
+                "nameProduct": "Blusa 1",
+                "imageUrl": "https://i.pinimg.com/originals/84/97/9b/84979bbde05b5caee8d6522bcb6574d0.jpg",
+                "categoryId":"2"
+            },
+            {
+                "id": "11354322",
+                "price": "40000",
+                "nameProduct": "Blusa 2",
+                "imageUrl": "https://i.pinimg.com/originals/2d/21/bc/2d21bc29bf2a863da8ad8c5448b1a6ce.jpg",
+                "categoryId":"2"
+            },
+            {
+                "id": "11354323",
+                "price": "40000",
+                "nameProduct": "Blusa 3",
+                "imageUrl": "https://res.cloudinary.com/leonisa/image/upload/q_auto,f_auto,w_540,dpr_2/assets/1/14/DimLarge/015799N_706_1200X1500_3.jpg",
+                "categoryId":"2"
+            },
+            {
+                "id": "11354324",
+                "price": "40000",
+                "nameProduct": "Blusa 4",
+                "imageUrl": "https://tendencias-de-la-moda.com/wp-content/uploads/2019/02/Blusas-de-moda-2019-1.jpg",
+                "categoryId":"2"
+            },
+            {
+                "id": "11354325",
+                "price": "40000",
+                "nameProduct": "Blusa 5",
+                "imageUrl": "https://i.pinimg.com/originals/7c/f9/b3/7cf9b310b9ffb475781ebb41919b6767.jpg",
+                "categoryId":"2"
+            },
+            {
+                "id": "11354326",
+                "price": "40000",
+                "nameProduct": "Blusa 6",
+                "imageUrl": "https://tendencias-de-la-moda.com/wp-content/uploads/2019/02/Blusas-de-moda-2019-3.jpg",
+                "categoryId":"2"
+            },
+            {
+                "id": "11354327",
+                "price": "40000",
+                "nameProduct": "Blusa 7",
+                "imageUrl": "https://ae01.alicdn.com/kf/H8033505c44354ebb96c74bc9640e846fT/Blusa-de-manga-larga-con-estampado-para-oto-o-camisa-de-oficina-de-alta-calidad-para.jpg",
+                "categoryId":"2"
+            },
+            {
+                "id": "11354328",
+                "price": "40000",
+                "nameProduct": "Blusa 8",
+                "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRopmS1VVAQ8sA2ZEtm665yTx1AzzmDOOh9LfSatbFyL3JxSX_lWUCKdGLmn11BOt9rS3Q&usqp=CAU",
+                "categoryId":"2"
+            },
+            {
+                "id": "11354329",
+                "price": "40000",
+                "nameProduct": "Blusa 9",
+                "imageUrl": "https://ae01.alicdn.com/kf/HTB1y1dpXvLsK1Rjy0Fbq6xSEXXaL/Blusa-de-chif-n-con-puntos-ondulados-y-manga-larga-para-oto-o-Camisa-ajustada-para.jpg_Q90.jpg_.webp",
+                "categoryId":"2"
+            },
+            {
+                "id": "11354330",
+                "price": "40000",
+                "nameProduct": "Blusa 10",
+                "imageUrl": "https://s.yimg.com/ny/api/res/1.2/WkLgPyAA0oe_R3BDVBfsoQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTEzMjQuMTM3OTMxMDM0NDgyOA--/https://s.yimg.com/uu/api/res/1.2/pa7G2famMWE4oAGnNllcFQ--~B/aD0xMjAwO3c9ODcwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/es/people_en_espa_ol_155/a0828df2f170b2618c5bfd7fd96ce3c3",
+                "categoryId":"2"
+            },
+            {
+                "id": "22354321",
+                "price": "50000",
+                "nameProduct": "Camisa 1",
+                "imageUrl": "https://tendencias-de-la-moda.com/wp-content/uploads/2019/02/Camisas-para-hombre-2019-5.jpg",
+                "categoryId":"1"
+            },
+            {
+                "id": "22354322",
+                "price": "50000",
+                "nameProduct": "Camisa 2",
+                "imageUrl": "https://tottoelsalvador.vteximg.com.br/arquivos/ids/184946-470-470/Totto-CAMISA-PARA-HOMBRE-COLOR-AZUL-DENIM-FIKO_1.jpg?v=637402186649230000",
+                "categoryId":"1"
+            },
+            {
+                "id": "22354323",
+                "price": "50000",
+                "nameProduct": "Camisa 3",
+                "imageUrl": "https://i.pinimg.com/originals/8e/da/66/8eda66b81eee1ea0a383c47f4593e437.jpg",
+                "categoryId":"1"
+            },
+            {
+                "id": "22354324",
+                "price": "50000",
+                "nameProduct": "Camisa 4",
+                "imageUrl": "https://dsnegsjxz63ti.cloudfront.net/images/pg/m_325fc96f38a87ad.jpg",
+                "categoryId":"1"
+            },
+            {
+                "id": "22354325",
+                "price": "50000",
+                "nameProduct": "Camisa 5",
+                "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRCkuFoO7_F35GEYHT10nS9B2trV2eOCJEO2Fxb1LzzUjetOaT_rXXWefhFrCaslGTXVU&usqp=CAU",
+                "categoryId":"1"
+            },
+            {
+                "id": "22354326",
+                "price": "50000",
+                "nameProduct": "Camisa 6",
+                "imageUrl": "https://dsnegsjxz63ti.cloudfront.net/images/pg/g_325ff8edb6cbcde.jpg",
+                "categoryId":"1"
+            },
+            {
+                "id": "22354327",
+                "price": "50000",
+                "nameProduct": "Camisa 7",
+                "imageUrl": "https://tendencias-de-la-moda.com/wp-content/uploads/2019/02/Camisas-para-hombre-2019-9.jpg",
+                "categoryId":"1"
+            },
+            {
+                "id": "22354328",
+                "price": "50000",
+                "nameProduct": "Camisa 8",
+                "imageUrl": "https://i.pinimg.com/736x/8c/97/53/8c9753e34e62c1f2691304e733c95b64.jpg",
+                "categoryId":"1"
+            },
+            {
+                "id": "22354329",
+                "price": "50000",
+                "nameProduct": "Camisa 9",
+                "imageUrl": "https://i.pinimg.com/474x/8c/c6/5f/8cc65f41bbc1d782d105d02625510e49.jpg",
+                "categoryId":"1"
+            },
+            {
+                "id": "22354330",
+                "price": "50000",
+                "nameProduct": "Camisa 10",
+                "imageUrl": "https://i.pinimg.com/originals/b7/23/fa/b723facfba7e9ecda7dba03e2a74d55e.jpg",
+                "categoryId":"1"
+            },
+            {
+                "id": "3335432",
+                "price": "60000",
+                "nameProduct": "Ropa 1",
+                "imageUrl": "https://media.vogue.es/photos/606dbcec8381e111eecd2813/4:3/w_4058,h_3044,c_limit/07_MINI_MAYORAL.jpg",
+                "categoryId":"3"
+            },
+            {
+                "id": "3335432",
+                "price": "60000",
+                "nameProduct": "Ropa 2",
+                "imageUrl": "https://i.pinimg.com/originals/70/bb/88/70bb887083a01e2c537d7de50bd27576.jpg",
+                "categoryId":"3"
+            },
+            {
+                "id": "3335432",
+                "price": "60000",
+                "nameProduct": "Ropa 3",
+                "imageUrl": "https://tendencias-de-la-moda.com/wp-content/uploads/2020/06/Ropa-Para-Ni%C3%B1os-2021-Mejores-Tendencias-e-Ideas-De-Ropa-De-Ni%C3%B1os-2021-5.jpg",
+                "categoryId":"3"
+            },
+            {
+                "id": "3335432",
+                "price": "60000",
+                "nameProduct": "Ropa 4",
+                "imageUrl": "https://i.pinimg.com/originals/79/02/c1/7902c1d4b3a0123fbc467085350dd521.jpg",
+                "categoryId":"3"
+            },
+            {
+                "id": "3335432",
+                "price": "60000",
+                "nameProduct": "Ropa 5",
+                "imageUrl": "https://tendencias-de-la-moda.com/wp-content/uploads/2020/06/Ropa-Para-Ni%C3%B1os-2021-Mejores-Tendencias-e-Ideas-De-Ropa-De-Ni%C3%B1os-2021-3.jpg",
+                "categoryId":"3"
+            },
+            {
+                "id": "3335432",
+                "price": "60000",
+                "nameProduct": "Ropa 6",
+                "imageUrl": "https://tendencias-de-la-moda.com/wp-content/uploads/2020/06/Moda-Para-Ni%C3%B1os-2021-Tendencias-Principales-Para-Ropas-Dni%C3%B1os-2021-5.jpg",
+                "categoryId":"3"
+            },
+            {
+                "id": "3335432",
+                "price": "60000",
+                "nameProduct": "Ropa 7",
+                "imageUrl": "https://i.pinimg.com/originals/9d/b0/2b/9db02b5fe4af83441af29a3fdbeb09b6.jpg",
+                "categoryId":"3"
+            },
+            {
+                "id": "3335432",
+                "price": "60000",
+                "nameProduct": "Ropa 8",
+                "imageUrl": "https://tendencias-de-la-moda.com/wp-content/uploads/2019/01/Moda-para-ni%C3%B1os-2019-18.jpg",
+                "categoryId":"3"
+            },
+            {
+                "id": "3335432",
+                "price": "60000",
+                "nameProduct": "Ropa 9",
+                "imageUrl": "https://tendencias-de-la-moda.com/wp-content/uploads/2019/02/ropa-de-ni%C3%B1a-2019-1.jpg",
+                "categoryId":"3"
+            },
+            {
+                "id": "3335432",
+                "price": "60000",
+                "nameProduct": "Ropa 10",
+                "imageUrl": "https://comoorganizarlacasa.com/wp-content/uploads/2017/02/Outfits-de-invierno-para-beb%C3%A9s-28.jpg",
+                "categoryId":"3"
+            },
+            {
+                "id": "44354321",
+                "price": "70000",
+                "nameProduct": "Ropa 1",
+                "imageUrl": "https://lh5.googleusercontent.com/TkIh9l2ZkidBFGbnJeuk3b8DoCyNMPL33Md_aMZ6DAf65oyBbDc6phBZjYT0cM4wxRO4qj26SSefW7Xtl7IuJ8Sg7yq1wNjE27Lny8Tg2mFZ_8DH5uxU4zrVFMwci0lY7Je94j1F",
+                "categoryId":"4"
+            },
+            {
+                "id": "44354322",
+                "price": "70000",
+                "nameProduct": "Ropa 2",
+                "imageUrl": "https://lh5.googleusercontent.com/UF2p8bTJP6v-_ftpiwLQhPThzDBT2i-lk-zM90lYLvvc3VzsWek-0LOHjujqEn71jMI-RjpC8XwT5LAQW9bEQatrQpf-ForMqfLi1UsUMGdhZwKYLUY0FCV2P3TsmG7Ts1SFFH3i",
+                "categoryId":"4"
+            },
+            {
+                "id": "44354323",
+                "price": "70000",
+                "nameProduct": "Ropa 3",
+                "imageUrl": "https://tendencias-de-la-moda.com/wp-content/uploads/2019/01/moda-jovenes-2019-1.jpg",
+                "categoryId":"4"
+            },
+            {
+                "id": "44354324",
+                "price": "70000",
+                "nameProduct": "Ropa 4",
+                "imageUrl": "https://tendencias-de-la-moda.com/wp-content/uploads/2020/06/Moda-Jovenes-2021-Ideas-Geniales-De-Ropa-Para-Chicos-e-Chicas-Jovenes-4.jpg",
+                "categoryId":"4"
+            },
+            {
+                "id": "44354325",
+                "price": "70000",
+                "nameProduct": "Ropa 5",
+                "imageUrl": "https://i.pinimg.com/474x/24/6b/80/246b80337fa58e57fa1430f0c9b67df4.jpg",
+                "categoryId":"4"
+            },
+            {
+                "id": "44354326",
+                "price": "70000",
+                "nameProduct": "Ropa 6",
+                "imageUrl": "https://tendencias-de-la-moda.com/wp-content/uploads/2020/06/Moda-Jovenes-2021-Ideas-Geniales-De-Ropa-Para-Chicos-e-Chicas-Jovenes-4.jpg",
+                "categoryId":"4"
+            },
+            {
+                "id": "44354327",
+                "price": "70000",
+                "nameProduct": "Ropa 7",
+                "imageUrl": "https://tendencias-de-la-moda.com/wp-content/uploads/2020/06/Moda-Jovenes-2021-Ideas-Geniales-De-Ropa-Para-Chicos-e-Chicas-Jovenes-5.jpg",
+                "categoryId":"4"
+            },
+            {
+                "id": "44354328",
+                "price": "70000",
+                "nameProduct": "Ropa 8",
+                "imageUrl": "https://www.polinesia.es/es-es/blog/wp-content/uploads/2017/02/Ropa-de-moda-para-hombres-jovenes.png",
+                "categoryId":"4"
+            },
+            {
+                "id": "44354329",
+                "price": "70000",
+                "nameProduct": "Ropa 9",
+                "imageUrl": "https://www.polinesia.es/es-es/blog/wp-content/uploads/2017/02/Ropa-de-moda-para-hombres-jovenes-camiseta.png",
+                "categoryId":"4"
+            },
+            {
+                "id": "44354330",
+                "price": "70000",
+                "nameProduct": "Ropa 10",
+                "imageUrl": "https://s.yimg.com/ny/api/res/1.2/pfl1tUgZv8GQM_G5OO3Vnw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTcwNS4wNzE3NzAzMzQ5Mjgz/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/0fc28010-f336-11ea-9b73-fde44e6c0825",
+                "categoryId":"4"
+            },
+            {
+                "id": "55354321",
+                "price": "80000",
+                "nameProduct": "Accesorio 1",
+                "imageUrl": "https://www.guapa.style/__export/1609982601213/sites/debate/img/2021/01/06/accesorios-tendencia-2021_crop1609982431992.jpg_242310155.jpg",
+                "categoryId":"5"
+            },
+            {
+                "id": "55354322",
+                "price": "80000",
+                "nameProduct": "Accesorio 2",
+                "imageUrl": "https://i2.wp.com/mousseglow.com/wp-content/uploads/2020/04/1-1.jpg?fit=594%2C415&ssl=1&resize=1280%2C720",
+                "categoryId":"5"
+            },
+            {
+                "id": "55354323",
+                "price": "80000",
+                "nameProduct": "Accesorio 3",
+                "imageUrl": "https://img.ltwebstatic.com/images3_pi/2020/08/04/1596518383d06ff5fe87f24a9f11e0fd84dd1ae2ce_thumbnail_600x.webp",
+                "categoryId":"5"
+            },
+            {
+                "id": "55354324",
+                "price": "80000",
+                "nameProduct": "Accesorio 4",
+                "imageUrl": "https://img.ltwebstatic.com/images3_pi/2020/09/08/15995483724a308be552d6d775e89adfa57bbe1df6_thumbnail_600x.webp",
+                "categoryId":"5"
+            },
+            {
+                "id": "55354325",
+                "price": "80000",
+                "nameProduct": "Accesorio 5",
+                "imageUrl": "",
+                "categoryId":"5"
+            },
+            {
+                "id": "55354326",
+                "price": "80000",
+                "nameProduct": "Accesorio 6",
+                "imageUrl": "https://img.ltwebstatic.com/images3_pi/2020/07/21/1595320473b851d49fdc6564c4130f558a3d138faa_thumbnail_600x.webp",
+                "categoryId":"5"
+            },
+            {
+                "id": "55354327",
+                "price": "80000",
+                "nameProduct": "Accesorio 7",
+                "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1oOjehcBCCzn4iAa8Yh_BJOUod5opxkPqsEhNxuOTdTl88qGSdOSn6WMo4rI2MGsc-DU&usqp=CAU",
+                "categoryId":"5"
+            },
+            {
+                "id": "55354328",
+                "price": "80000",
+                "nameProduct": "Accesorio 8",
+                "imageUrl": "https://img.bestdealplus.com/ae04/kf/H8a2ffee5fd444b1194faa0b4523cfe84x.jpg",
+                "categoryId":"5"
+            },
+            {
+                "id": "55354329",
+                "price": "80000",
+                "nameProduct": "Accesorio 9",
+                "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTzpqs2IItwPchbObXIPbevoORwJw8HQxV5e2wS50ViPr6qrz9nEx1ZzB1FZzmt0dg-Ko&usqp=CAU",
+                "categoryId":"5"
+            },
+            {
+                "id": "553543210",
+                "price": "80000",
+                "nameProduct": "Accesorio 10",
+                "imageUrl": "https://i.pinimg.com/originals/f0/53/f9/f053f961104be64ac40bcdd9ffc7b72d.jpg",
+                "categoryId":"5"
+            }
+]
+}
